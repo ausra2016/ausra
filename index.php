@@ -5,6 +5,7 @@
 
 <body>
 <?php
+
 	if(isset($_POST['vardas'])){
 	$vardas = $_POST['vardas'];
 	$slaptazodis = $_POST['slaptazodis'];
